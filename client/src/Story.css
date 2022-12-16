@@ -1,0 +1,11 @@
+.head{
+    color: azure;
+    display: block;
+}
+
+.story{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+}
+

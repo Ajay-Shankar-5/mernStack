@@ -1,0 +1,29 @@
+input{
+    border-radius: 1px;
+}
+
+.login{
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        font-family: 'Roboto', sans-serif;
+        
+    
+}
+
+
+.header{
+    color: beige;
+    display: block;
+    font-family: 'Martian Mono', monospace;
+}
+
+.login-button{
+    background-color: #ffffb3;
+    margin-top: 30px;
+    border-radius: 5px;
+    margin-left: 90px;
+    font-family: 'Roboto', sans-serif;
+}
